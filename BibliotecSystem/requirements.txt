@@ -1,1 +1,7 @@
 numpy==2.4.1
+Django==5.0.*
+djangorestframework
+drf-spectacular
+Pillow
+python-decouple
+psycopg2-binary  # или оставьте SQLite для разработки
